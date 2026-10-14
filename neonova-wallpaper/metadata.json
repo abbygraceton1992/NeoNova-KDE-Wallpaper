@@ -1,0 +1,20 @@
+{
+    "KPackageStructure": "Plasma/Wallpaper",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "abbygraceton76@gmail.com",
+                "Name": "Abby Graceton"
+            }
+        ],
+        "Description": "Neonova is a lightweight KDE Plasma 6 wallpaper plugin that renders a field of drifting, twinkling particles with soft depth glows. Particle color is user configurable via the wallpaper settings.",
+        "Icon": "preferences-desktop-wallpaper",
+        "Id": "com.local.neonova",
+        "License": "GPL-2.0-or-later",
+        "Name": "Neonova",
+        "Version": "1.1",
+        "Website": "https://www.neonova.sa/"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-KDE-ParentApp": "org.kde.plasmashell"
+}
