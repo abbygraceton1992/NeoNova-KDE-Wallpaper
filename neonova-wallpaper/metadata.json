@@ -12,7 +12,7 @@
         "Id": "com.local.neonova",
         "License": "GPL-2.0-or-later",
         "Name": "Neonova",
-        "Version": "1.1",
+        "Version": "1.2",
         "Website": "https://www.neonova.sa/"
     },
     "X-Plasma-API-Minimum-Version": "6.0",
