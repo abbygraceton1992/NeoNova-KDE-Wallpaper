@@ -9,5 +9,9 @@
       <label>Orb color</label>
       <default>#66d9ff</default>
     </entry>
+    <entry name="BackgroundColor" type="String">
+      <label>Background color</label>
+      <default>#050a12</default>
+    </entry>
   </group>
 </kcfg>
