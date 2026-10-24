@@ -13,5 +13,19 @@
       <label>Background color</label>
       <default>#050a12</default>
     </entry>
+    <entry name="OrbAlpha" type="Double">
+      <label>Base orb opacity</label>
+      <default>0.22</default>
+      <min>0.05</min>
+      <max>0.6</max>
+    </entry>
+    <entry name="BackgroundType" type="String">
+      <label>Background type</label>
+      <default>color</default>
+    </entry>
+    <entry name="BackgroundImage" type="String">
+      <label>Background image path</label>
+      <default></default>
+    </entry>
   </group>
 </kcfg>
